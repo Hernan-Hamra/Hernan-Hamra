@@ -9,13 +9,13 @@ Full Stack Engineer focused on high-impact products — from architecture to dep
 ## What I'm building now
 
 **ARGOS** — Personal AI assistant + business automation platform.
-Running in production. 78 registered tools, 7-agent orchestration, SQL interceptor for LLM data validation, evaluator rules engine (R1-R11), routine daemon, and multi-channel notifications (Telegram + WhatsApp + Email).
+Running in production. 134 registered tools, 173 code-level guardrails, 421 automated test files, SQL interceptor for LLM data validation, evaluator rules engine (R1-R11), routine daemon, and multi-channel notifications (Telegram + WhatsApp + Email).
 Python 3.12 · FastAPI · PostgreSQL · Vue 3 · Claude API with prompt caching.
 → [argos-showcase](https://github.com/Hernan-Hamra/argos-showcase)
 
-**DevBlackHoleAI** — Cross-project dev-knowledge platform.
-Code quality scanner, pattern detection, code-level enforcements, TDD-vs-direct efficiency metrics. FastAPI + Vue 3 + PostgreSQL.
-→ [devblackhole-showcase](https://github.com/Hernan-Hamra/devblackhole-showcase)
+**AIEF** — My own AI engineering method.
+Spec-driven development, strict TDD, and guardrails as code. AI writes the code; AIEF makes sure it's telling the truth.
+→ [aief-showcase](https://github.com/Hernan-Hamra/aief-showcase)
 
 ---
 
@@ -62,7 +62,7 @@ Face embedding extraction + cosine similarity against a curated DB.
 **Backend** · FastAPI, NestJS, Django, Express, SSE streaming
 **Databases** · PostgreSQL, MySQL, MongoDB, SQLite, ChromaDB
 **Frontend** · Vue 3 + Vuetify + Pinia + Vite, React Native
-**AI / LLMs** · Anthropic Claude, OpenAI, Groq, Gemini, Mistral · RAG, prompt caching, multi-agent architectures, transfer learning (PyTorch, TensorFlow)
+**AI / LLMs** · Anthropic Claude, OpenAI, Groq, Gemini, Mistral · RAG, prompt caching, guardrails as code, transfer learning (PyTorch, TensorFlow)
 **Cloud & Platforms** · Google Cloud (Vertex AI), AWS, Digital Ocean, Docker, nginx, supervisord
 
 ---
